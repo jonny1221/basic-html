@@ -1,0 +1,50 @@
+h1{
+  font-size: 100px;  
+}
+
+
+
+/* class is dot(.) while id is #(hastag) */
+.thirdy{
+font-size: 20px;
+color:violet;
+}
+
+#renan{
+  font-size: 60px;
+  color: pink;
+  background-color: tomato;
+  width: auto;
+}
+
+button{
+width: 150px;
+height: 30px;
+font-size: 35px;
+font-style: unset;
+font-weight: 200px;
+}
+
+.login_box{
+  text-align: center;
+}
+
+
+.login_box h1{
+  
+  font-size: 75px;7hu
+  
+  
+}
+.login_box button{
+  font-size: 20px;
+  width: 100px;
+  height: 30px;  
+  margin-top: 20px;
+}
+.login_box input{
+  font-size: 20px;
+  width: 400px;
+  height: 20px;  
+
+}
